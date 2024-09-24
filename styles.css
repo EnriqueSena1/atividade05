@@ -1,0 +1,9 @@
+body{
+    color: azure;
+    background-color: black;
+}
+.imagcenter{
+    width: 574px;
+    height: 642px;
+    margin: auto;
+}
